@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 void print5(int n)
@@ -21,6 +22,6 @@ int main()
     {
         int n;
         cin >> n;
-        print5(n)
+        print5(n);
     }
 }
