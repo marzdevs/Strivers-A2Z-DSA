@@ -12,3 +12,15 @@ void print5(int n)
         cout << endl;
     }
 }
+
+int main()
+{
+    int t;
+    cin >> t;
+    for (int i = 0; i < t; i++)
+    {
+        int n;
+        cin >> n;
+        print5(n)
+    }
+}
